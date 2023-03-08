@@ -1,2 +1,1 @@
-#!/bin/bash
-IT is for my project shell basics
+script that prints the absolute path name of the current working directory.
